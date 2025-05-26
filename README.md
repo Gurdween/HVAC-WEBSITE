@@ -17,18 +17,32 @@ This is a simple, responsive website designed for an HVAC (Heating, Ventilation,
 - **CSS3**
 - **JavaScript (Vanilla)**
 
-## 🖥️ Demo
-
-[Live Demo](#) *(Update with your deployed link if available)*
-
-## 📸 Screenshots
-
-*(Include screenshots here if you have them)*
-
 ## 📦 Installation
 
 To run locally:
-
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/hvac-website.git
+    https://github.com/gurdween/hvac-website.git
+   
+## ✨ Customization
+You can easily update:
+
+Business name/logo
+
+Services offered
+
+Contact information
+
+Colors and fonts in the CSS file
+
+## 🛠️ Future Improvements
+Backend integration for contact form
+
+Testimonials section
+
+Blog/news area
+
+## 📬 Contact
+📧 Email: enebeligodwin2@gmail.com
+
+🐙 GitHub:[@Gurdween](https://github.com/Gurdween)
